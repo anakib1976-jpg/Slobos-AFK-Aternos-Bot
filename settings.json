@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "chodasmp.aternos.me",
+    "port": 52834,
     "version": "",
     "try-creative": false
   },
@@ -28,12 +28,12 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I hate niggers",
+        "my puh",
+        "dih ahh"
       ]
     },
     "chat-log": true,
